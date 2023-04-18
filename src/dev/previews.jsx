@@ -1,7 +1,7 @@
 import React from 'react'
 import {ComponentPreview, Previews} from '@react-buddy/ide-toolbox'
 import {PaletteTree} from './palette'
-import ExpenseItem from "../components/ExpenseItem";
+import ExpenseItem from "../components/Expenses/ExpenseItem";
 
 const ComponentPreviews = () => {
     return (
